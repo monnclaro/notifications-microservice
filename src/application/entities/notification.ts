@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { randomUUID } from 'crypto';
 import { Replace } from 'src/helpers/replace';
 import { Content } from './content';
