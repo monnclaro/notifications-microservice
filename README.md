@@ -1,4 +1,4 @@
-## Notifications microservice
+# Notifications microservice
 
 Notifications microservice built with Nest.js & Prisma.
 
